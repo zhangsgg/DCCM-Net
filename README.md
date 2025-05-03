@@ -1,3 +1,7 @@
+# Crack segmentation network via difference convolution-based encoder and hybrid CNN-Mamba multi-scale attention
+
+![Network Overview](image/model.png)
+
 You can complete the training on the Deepcrack dataset by following the steps below. The author does not frequently check GitHub. If there are any issues, please send an email to the second author.
 1. install torch
     ```shell
@@ -20,6 +24,7 @@ If you have used our code, please cite our paper.
 @article{ZHANG2025111723,
 title = {Crack segmentation network via difference convolution-based encoder and hybrid CNN-Mamba multi-scale attention},
 journal = {Pattern Recognition},
+volume = {167},
 pages = {111723},
 year = {2025},
 issn = {0031-3203},
